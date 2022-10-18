@@ -21,3 +21,5 @@ What the screen looks like when the game starts:
 What the screen looks like when the game is over:  
 
 <img width="1199" alt="asteroid2" src="https://user-images.githubusercontent.com/88428142/196083717-1c18a97f-16af-4d95-83ef-4df595d38597.png">
+
+To run the application, please download Brackets. Download and drag all the files and peform a live preview.
